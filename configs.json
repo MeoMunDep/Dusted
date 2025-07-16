@@ -1,1 +1,9 @@
-
+{
+  "rotateProxy": false,
+  "skipInvalidProxy": true,
+  "proxyRotationInterval": 2,
+  "delayEachAccount": [1, 1],
+  "timeToRestartAllAccounts": 3600,
+  "howManyAccountsRunInOneTime": 1,
+  "referralCodes": ["P72VKZUR"]
+}
