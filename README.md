@@ -1,2 +1,9 @@
-# Dusted
-Auto referrals, chat, spin, claim tokens.
+💼 Contact & Purchase
+
+🔹 Buy Now: [Telegram](https://t.me/meomundep)
+
+🔹 Fast & Direct – No Unnecessary Talk or Silly Question.
+
+📌 Serious buyers only. Let's keep it professional! 🚀
+
+🌐 [Dusted Link](https://www.dusted.app/) 
